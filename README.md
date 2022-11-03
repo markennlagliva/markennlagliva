@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning **Data Engineering and Machine Learning**
 
 - 📫 How to reach me **markennlagliva@gmail.com**
-- <h4> ✔Badges <a href="https://www.credly.com/users/markenn/badges" target="blank"></h4>
+
+- ⚡ Motto **"Do not fear, only believe"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

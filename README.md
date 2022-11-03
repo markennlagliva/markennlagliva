@@ -1,14 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif)
-
-<h1 align="center">Hi 🌸, I'm Markenn Dave L. Lagliva</h1>
-<h3 align="center">A passionate data enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://teamupstaffing.com/wp-content/uploads/2021/08/ETL-vs-ELT.gif")
+[![MasterHead](https://teamupstaffing.com/wp-content/uploads/2021/08/ETL-vs-ELT.gif)](https://markennlagliva.io)
+<h1 align="left"> Hi🌸, I'm Markenn Dave L. Lagliva</h1>
+<h3 align="left">A Data Enthusiast</h3>
 
 - 🌱 I’m currently learning **Data Engineering and Machine Learning**
 
 - 📫 How to reach me **markennlagliva@gmail.com**
-
-- ⚡ Motto **If ambiguity barely cleared, I'm gonna do it in my own way.**
+- <h4> ✔Badges <a href="https://www.credly.com/users/markenn/badges" target="blank"></h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

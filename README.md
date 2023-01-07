@@ -36,4 +36,25 @@
     
 - <a href="">Coding Interview Preparation</a>
  
+ <br>
+ 
+ <img src="https://github.com/markennlagliva/CS/blob/fa04a3abcd4025f0f66a3c6d724e98cc55600ad7/IBM%20Logo_Banner.jpg" alt="markennlagliva" height="100" width="300">
+ ~ IBM Data Engineering ~ <br>
+ 
+ - <a href="https://coursera.org/share/79e679c06562d16d7e853be114e6b893">Introduction to Data Engineering</a>
 
+ - <a href="https://www.credly.com/badges/427e7167-4c2a-4c5c-b817-c3fbaf43d126">Python for Data Science and AI</a>
+
+ - <a href="https://coursera.org/share/40706772d7792632449df1956fb0cc19">Python Project for Data Engineering</a>
+
+ - <a href="https://coursera.org/share/1d512e1be3afdc04bcbab32b359a5bbc">Introduction to Relational Databases (RDBMS)</a>
+
+ - <a href="https://www.credly.com/badges/e9ac8054-734e-42cb-8d7d-e721c24f0eb5">Databases and SQL for Data Science</a>
+
+ - <a href="https://coursera.org/share/0be8599778c309c20eeeab1bc414acc0">Hands-on Introduction to Linux Commands and Shell Scripting</a>
+
+ - <a href="https://coursera.org/share/c66026db93d486dd7e84bf27056e567e">Relational Database Administration (DBA)</a>
+ 
+ <h3> Extra... </h3>
+ - 
+ 

@@ -39,7 +39,7 @@
  <br>
  
  <img src="https://github.com/markennlagliva/CS/blob/fa04a3abcd4025f0f66a3c6d724e98cc55600ad7/IBM%20Logo_Banner.jpg" alt="markennlagliva" height="100" width="300">
- ~ IBM Data Engineering ~ / Backend <br>
+ ~ IBM Data Engineering ~ <br>
  
  - <a href="https://coursera.org/share/79e679c06562d16d7e853be114e6b893">Introduction to Data Engineering</a>
 

@@ -30,7 +30,7 @@
 
 - <a href="https://coursera.org/share/d7b1009ecdb3db7421f52ad7b197af74">Advanced React</a>
     
-- <a href="">Principles of UX/UI Design</a>
+- <a href="https://coursera.org/share/6e2a0112bd2149d1c4c48dcc02c2ae08">Principles of UX/UI Design</a>
     
 - <a href="">Front-End Developer Capstone</a>
     

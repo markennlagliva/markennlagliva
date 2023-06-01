@@ -49,11 +49,15 @@
  
  - <a href="https://coursera.org/share/5d9196334d1b494d977bfd1aa6043e0d">Introduction to Databases for Back-End Development</a>
  
+ <i><strong> Currently Studying... </i></strong>
+ 
  - <a href="">Django Web Framework - 44% 3rd week</a>
  - <a href="">API's - Currently Learning</a>
  - <a href="">The Full Stack - Currently Learning</a>
  - <a href="">Back-End Developer Capstone - Currently Learning</a>
  - <a href="">Coding Interview Preparation - NOT FINISHED</a>
+
+<br>
  
  <img src="https://github.com/markennlagliva/CS/blob/fa04a3abcd4025f0f66a3c6d724e98cc55600ad7/IBM%20Logo_Banner.jpg" alt="markennlagliva" height="100" width="300">
  ~ IBM Data Engineering ~ <br>

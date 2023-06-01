@@ -64,7 +64,7 @@
  
  - <a href="https://coursera.org/share/79e679c06562d16d7e853be114e6b893">Introduction to Data Engineering</a>
 
- - <a href="https://coursera.org/share/f20eadd1dae3030bf51c931727c022e4">Python for Data Science and AI</a>
+ - <a href="https://coursera.org/share/f20eadd1dae3030bf51c931727c022e4">Python for Data Science and AI & Development</a>
 
  - <a href="https://coursera.org/share/40706772d7792632449df1956fb0cc19">Python Project for Data Engineering</a>
 

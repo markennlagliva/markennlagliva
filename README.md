@@ -32,11 +32,28 @@
     
 - <a href="https://coursera.org/share/6e2a0112bd2149d1c4c48dcc02c2ae08">Principles of UX/UI Design</a>
     
-- <a href="">Front-End Developer Capstone</a>
+    <i> I decided to jump Learning Backend Stuff now. </i>
+- <a href="">Front-End Developer Capstone - NOT FINISHED</a>
     
-- <a href="">Coding Interview Preparation</a>
+- <a href="">Coding Interview Preparation - NOT FINISHED</a>
  
  <br>
+ 
+ ~ Meta Back-End Developer Professional Certificate ~ <br>
+ 
+ - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Introduction to Back-End Development</a>
+ 
+ - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Programming in Python</a>
+ 
+ - <a href="https://coursera.org/share/9953c74eaeb424f9a3d65622b611e193">Version Control</a>
+ 
+ - <a href="https://coursera.org/share/5d9196334d1b494d977bfd1aa6043e0d">Introduction to Databases for Back-End Development</a>
+ 
+ - <a href="">Django Web Framework - 44% 3rd week</a>
+ - <a href="">API's - Currently Learning</a>
+ - <a href="">The Full Stack - Currently Learning</a>
+ - <a href="">Back-End Developer Capstone - Currently Learning</a>
+ - <a href="">Coding Interview Preparation - NOT FINISHED</a>
  
  <img src="https://github.com/markennlagliva/CS/blob/fa04a3abcd4025f0f66a3c6d724e98cc55600ad7/IBM%20Logo_Banner.jpg" alt="markennlagliva" height="100" width="300">
  ~ IBM Data Engineering ~ <br>

@@ -51,7 +51,7 @@
  
  - <a href="https://coursera.org/share/21f680ff6032611059a7465d71358721">Django Web Framework</a>
 
-- <a href="https://coursera.org/share/0b41f76a95e598f32e4eb99c34ac5194">API's - Currently Learning</a>
+- <a href="https://coursera.org/share/0b41f76a95e598f32e4eb99c34ac5194">API's</a>
  
  <i><strong> Currently Studying... </i></strong>
  - <a href="">The Full Stack - Currently Learning</a>

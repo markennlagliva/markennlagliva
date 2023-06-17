@@ -32,7 +32,7 @@
     
 - <a href="https://coursera.org/share/6e2a0112bd2149d1c4c48dcc02c2ae08">Principles of UX/UI Design</a>
     
-    <i> I decided to jump Learning Backend Stuff now. </i>
+    <i> Decided learning backend stuff now </i>
 - <a href="">Front-End Developer Capstone - NOT FINISHED</a>
     
 - <a href="">Coding Interview Preparation - NOT FINISHED</a>

@@ -80,4 +80,9 @@
  
  <h3> Extra... </h3>
  - <a href="https://drive.google.com/file/d/1_F2zCYRn9lBFS8ugNdR8PlzOJy3ifpgo/view">Tech Trends: Data Analytics (Intermediate Session)</a>
+ - <a href="https://drive.google.com/file/d/1MN6WkmfzLbJe4KfKTQLALGLUjq3kNwt1/view?usp=drive_link">Java</a>
+ 
+ - <a href="https://drive.google.com/file/d/1lWnQu8mHKXnMopiKdt1UNTDuJYRo2Tyx/view?usp=drive_link">Kotlin</a>
+
+ - <a href="https://drive.google.com/file/d/11B9mBL9TrgjZo7gSvfJhpwPjtGCEbwIM/view?usp=drive_link">SQL</a>
  

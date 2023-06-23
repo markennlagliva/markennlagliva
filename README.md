@@ -36,6 +36,7 @@
  
  ~ Meta Back-End Developer Professional Certificate ~ <br>
   - <strong><a href="https://coursera.org/share/5b61db5fac111b337c5b15b8840295d7">Meta Back-End Developer</a></strong>
+  <img src="Meta Back-End Developer.jpg" height="200" width="300">
  
 - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Introduction to Back-End Development</a>
 - <a href="https://coursera.org/share/4aec9828ff9490679d1deefc34a7c9c2">Programming in Python</a>

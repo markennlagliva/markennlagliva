@@ -25,14 +25,17 @@
 - <a href="https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b">React Basics</a>
 - <a href="https://coursera.org/share/d7b1009ecdb3db7421f52ad7b197af74">Advanced React</a>
 - <a href="https://coursera.org/share/6e2a0112bd2149d1c4c48dcc02c2ae08">Principles of UX/UI Design</a>
-    
+
+- <a href="https://coursera.org/share/af4906e17cf23f58e29a5139e531edf4">Coding Interview Preparation</a>
+
     <i> ~ Currently Learning Back-End Development ~ </i>
 - <a href="">Front-End Developer Capstone - NOT FINISHED</a>
-- <a href="">Coding Interview Preparation - NOT FINISHED</a>
+
  
  <br>
  
  ~ Meta Back-End Developer Professional Certificate ~ <br>
+  - <strong><a href="https://coursera.org/share/5b61db5fac111b337c5b15b8840295d7">Meta Back-End Developer</a></strong>
  
 - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Introduction to Back-End Development</a>
 - <a href="https://coursera.org/share/4aec9828ff9490679d1deefc34a7c9c2">Programming in Python</a>
@@ -41,13 +44,9 @@
 - <a href="https://coursera.org/share/21f680ff6032611059a7465d71358721">Django Web Framework</a>
 - <a href="https://coursera.org/share/0b41f76a95e598f32e4eb99c34ac5194">API's</a>
 - <a href="https://coursera.org/share/5e67b3ce5aa22ac9b8c2c6af69b77b6b">The Full Stack</a>
-
- - <a href="https://coursera.org/share/a48c40858714ed6d58722cfc56088a8e">Back-End Developer Capstone</a>
+- <a href="https://coursera.org/share/af4906e17cf23f58e29a5139e531edf4">Coding Interview Preparation</a>
+- <a href="https://coursera.org/share/a48c40858714ed6d58722cfc56088a8e">Back-End Developer Capstone</a>
  
- <i><strong> Currently Studying... </strong></i>
-
- - <a href="">Coding Interview Preparation - NOT FINISHED</a>
-
 <br>
  
  <img src="https://github.com/markennlagliva/CS/blob/fa04a3abcd4025f0f66a3c6d724e98cc55600ad7/IBM%20Logo_Banner.jpg" alt="markennlagliva" height="100" width="300">

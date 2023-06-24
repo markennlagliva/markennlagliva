@@ -16,8 +16,7 @@
 <br>
 <h3> Certificates: </h3>
 <img src="https://github.com/markennlagliva/CS/blob/afa256a280fe7edf762dce2806ffc0dc7e2479b3/facebook-meta-header.jpg" alt="markennlagliva" height="100" width="300">
- ~ Meta Front-End Developer Professional Certificate ~ <br>
-    - <strong><a href="https://coursera.org/share/3cd1303d41403a49ccb5b7127adf9bdf" >Meta Front-End Developer</a></strong>
+- <strong><a href="https://coursera.org/share/3cd1303d41403a49ccb5b7127adf9bdf" >~ Meta Front-End Developer Professional Certificate ~ </a></strong>
  <img src="https://github.com/markennlagliva/CS/blob/ee196512060415e047a10aa9fb794ea3ce57783c/Meta%20Front-End%20Developer.jpg" height="200" width="300">
  
 - <a href="https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4">Meta Front-end Developer</a>
@@ -32,9 +31,7 @@
 
  
  <br>
- 
- ~ Meta Back-End Developer Professional Certificate ~ <br>
-  - <strong><a href="https://coursera.org/share/5b61db5fac111b337c5b15b8840295d7">Meta Back-End Developer</a></strong>
+- <strong><a href="https://coursera.org/share/5b61db5fac111b337c5b15b8840295d7"> ~ Meta Back-End Developer Professional Certificate ~ </a></strong>
   <img src="https://github.com/markennlagliva/CS/blob/ee196512060415e047a10aa9fb794ea3ce57783c/Meta%20Back-End%20Developer.jpg" height="200" width="300">
  
 - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Introduction to Back-End Development</a>

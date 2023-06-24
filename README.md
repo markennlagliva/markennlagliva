@@ -45,8 +45,9 @@
 - <a href="https://coursera.org/share/21f680ff6032611059a7465d71358721">Django Web Framework</a>
 - <a href="https://coursera.org/share/0b41f76a95e598f32e4eb99c34ac5194">API's</a>
 - <a href="https://coursera.org/share/5e67b3ce5aa22ac9b8c2c6af69b77b6b">The Full Stack</a>
-- <a href="https://coursera.org/share/af4906e17cf23f58e29a5139e531edf4">Coding Interview Preparation</a>
 - <a href="https://coursera.org/share/a48c40858714ed6d58722cfc56088a8e">Back-End Developer Capstone</a>
+- <a href="https://coursera.org/share/af4906e17cf23f58e29a5139e531edf4">Coding Interview Preparation</a>
+
  
 <br>
  

@@ -17,8 +17,8 @@
 <h3> Certificates: </h3>
 <img src="https://github.com/markennlagliva/CS/blob/afa256a280fe7edf762dce2806ffc0dc7e2479b3/facebook-meta-header.jpg" alt="markennlagliva" height="100" width="300">
  ~ Meta Front-End Developer Professional Certificate ~ <br>
- - <strong><a href="https://coursera.org/share/3cd1303d41403a49ccb5b7127adf9bdf" >Meta Front-End Developer</a></strong>
- <img src="https://github.com/markennlagliva/CS/blob/main/Meta%20Back-End%20Developer.jpg" height="200" width="300">
+- <strong><a href="https://coursera.org/share/3cd1303d41403a49ccb5b7127adf9bdf" >Meta Front-End Developer</a></strong>
+ <img src="https://github.com/markennlagliva/CS/blob/ee196512060415e047a10aa9fb794ea3ce57783c/Meta%20Front-End%20Developer.jpg" height="200" width="300">
  
 - <a href="https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4">Meta Front-end Developer</a>
 - <a href="https://coursera.org/share/e51a1003efbd0b7182aca531e7ebf6f0">Programming with JavaScript</a>
@@ -27,18 +27,15 @@
 - <a href="https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b">React Basics</a>
 - <a href="https://coursera.org/share/d7b1009ecdb3db7421f52ad7b197af74">Advanced React</a>
 - <a href="https://coursera.org/share/6e2a0112bd2149d1c4c48dcc02c2ae08">Principles of UX/UI Design</a>
-
+- <a href="https://coursera.org/share/f078196a51b3d2f08ddca236941c7b58">Front-End Developer Capstone</a>
 - <a href="https://coursera.org/share/af4906e17cf23f58e29a5139e531edf4">Coding Interview Preparation</a>
-
-    <i> ~ Currently Learning Back-End Development ~ </i>
-- <a href="">Front-End Developer Capstone - NOT FINISHED</a>
 
  
  <br>
  
  ~ Meta Back-End Developer Professional Certificate ~ <br>
   - <strong><a href="https://coursera.org/share/5b61db5fac111b337c5b15b8840295d7">Meta Back-End Developer</a></strong>
-  <img src="https://github.com/markennlagliva/CS/blob/main/Meta%20Back-End%20Developer.jpg" height="200" width="300">
+  <img src="hhttps://github.com/markennlagliva/CS/blob/ee196512060415e047a10aa9fb794ea3ce57783c/Meta%20Back-End%20Developer.jpg" height="200" width="300">
  
 - <a href="https://coursera.org/share/b4ff097b392c09b08b9bb9a281040a45">Introduction to Back-End Development</a>
 - <a href="https://coursera.org/share/4aec9828ff9490679d1deefc34a7c9c2">Programming in Python</a>

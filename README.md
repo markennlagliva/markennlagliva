@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, I'm Markenn Dave L. Lagliva</h1>
 <h3 align="left"></h3>
 
-- 🌱 I’m interested in **Software Engineering specifically Backend Development**
+- 🌱 I’m interested in **Software Engineering** specifically **Backend Development**
 
 - 📫 How to reach me **markennlagliva@gmail.com**
 

@@ -1,19 +1,12 @@
-<h1 align="left"> Hi, I'm Markenn Dave L. Lagliva</h1>
-<h3 align="left"></h3>
+Hi 👋 My name is Markenn
+===============================================================================================================================
+* 🌍  I'm based in the Philippines
+* 🖥️  See my portfolio at [@markenndev](http://markenndev.vercel.app)
+* 🧠  I'm currently learning / mastering Django Stack
+  
+<a href="http://www.github.com/markennlagliva"><img src="https://github-readme-stats.vercel.app/api?username=markennlagliva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="markennlagliva's GitHub stats" /></a>
 
-- 🌱 I’m interested in **Software Engineering** specifically **Backend Development**
-
-- 📫 How to reach me **markennlagliva@gmail.com**
-
-- ⚡ Motto **"Do not fear, only believe"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://fb.com/markenn.lagliva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="markenn.lagliva" height="30" width="40" /></a>
-<a href="https://instagram.com/markennlagliva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="markennlagliva" height="30" width="40" /></a>
-</p>
-<br>
+<a href="http://www.github.com/markennlagliva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=markennlagliva&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <h3> Certificates: </h3>
 <img src="https://github.com/markennlagliva/CS/blob/afa256a280fe7edf762dce2806ffc0dc7e2479b3/facebook-meta-header.jpg" alt="markennlagliva" height="100" width="300">
 <i><strong><a href="https://coursera.org/share/3cd1303d41403a49ccb5b7127adf9bdf" >~ Meta Front-End Developer Professional Certificate ~ </a></strong></i>

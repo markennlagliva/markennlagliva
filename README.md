@@ -2,7 +2,7 @@ Hi 👋 My name is Markenn
 ===============================================================================================================================
 * 🌍  I'm based in the Philippines
 * 🖥️  See my portfolio at [@markenndev](http://markenndev.vercel.app)
-* 🧠  I'm currently learning / mastering Django Stack
+* 🧠  I'm currently and continuously learning / mastering Django Stack
   
 <a href="http://www.github.com/markennlagliva"><img src="https://github-readme-stats.vercel.app/api?username=markennlagliva&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="markennlagliva's GitHub stats" /></a>
 
